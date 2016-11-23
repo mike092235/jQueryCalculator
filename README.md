@@ -1,2 +1,2 @@
 # jQueryCalculator
-Simple jQuery Calculator
+Simple jQuery Calculator made in class
